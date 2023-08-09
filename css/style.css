@@ -1,0 +1,18 @@
+.header, .hero, .body, .bar, .footer{
+    background-color: aqua;
+}
+.box{
+    min-height: 80px;
+    margin: 10px 0;
+    background-color: red;
+    font-size: 30px;
+    color: aliceblue;
+    text-align: center;
+    
+}
+.extra{
+    background-color: gold;
+}
+.extra_2{
+    background-color: darkmagenta;
+}
